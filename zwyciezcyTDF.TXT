@@ -1,0 +1,101 @@
+lp 	rok 	km 	zwycięzca 	kraj 	2. miejsce 	kraj 	3. miejsce 	kraj 	raport
+100 	2013 	3.360 	Christopher Froome 	 Wielka Brytania 	Nairo Quintana 	 Kolumbia 	Joaquim Rodríguez 	 Hiszpania 	TdF 2013
+99 	2012 	3.497 	Bradley Wiggins 	 Wielka Brytania 	Christopher Froome 	 Wielka Brytania 	Vincenzo Nibali 	 Włochy 	TdF 2012
+98 	2011 	3.430 	Cadel Evans 	 Australia 	Andy Schleck 	 Luksemburg 	Fränk Schleck 	 Luksemburg 	TdF 2011
+97 	2010 	3.642 	Andy Schleck 	 Luksemburg 	Dienis Mieńszow 	 Rosja 	Samuel Sánchez 	 Hiszpania 	TdF 2010
+96 	2009 	3.459 	Alberto Contador 	 Hiszpania 	Andy Schleck 	 Luksemburg 	Lance Armstrong 	Stany Zjednoczone Stany Zjednoczone 	TdF 2009
+95 	2008 	3.556 	Carlos Sastre 	 Hiszpania 	Cadel Evans 	 Australia 	Dienis Mieńszow 	 Rosja 	TdF 2008
+94 	2007 	3.570 	Alberto Contador 	 Hiszpania 	Cadel Evans 	 Australia 	Levi Leipheimer 	 Stany Zjednoczone 	TdF 2007
+93 	2006 	3.656 	Oscar Pereiro 	 Hiszpania 	Andreas Klöden 	 Niemcy 	Carlos Sastre 	 Hiszpania 	TdF 2006
+92 	2005 	3.607 	Lance Armstrong 	Stany Zjednoczone Stany Zjednoczone 	Ivan Basso 	 Włochy 	Jan Ullrich 	 Niemcy 	TdF 2005
+91 	2004 	3.391 	Lance Armstrong 	Stany Zjednoczone Stany Zjednoczone 	Andreas Klöden 	 Niemcy 	Ivan Basso 	 Włochy 	TdF 2004
+90 	2003 	3.350 	Lance Armstrong 	Stany Zjednoczone Stany Zjednoczone 	Jan Ullrich 	 Niemcy 	Aleksandr Winokurow 	 Kazachstan 	TdF 2003
+89 	2002 	3.276 	Lance Armstrong 	Stany Zjednoczone Stany Zjednoczone 	Joseba Beloki 	 Hiszpania 	Raimondas Rumšas 	 Litwa 	TdF 2002
+88 	2001 	3.453 	Lance Armstrong 	Stany Zjednoczone Stany Zjednoczone 	Jan Ullrich 	 Niemcy 	Joseba Beloki 	 Hiszpania 	TdF 2001
+87 	2000 	3.662 	Lance Armstrong 	Stany Zjednoczone Stany Zjednoczone 	Jan Ullrich 	 Niemcy 	Joseba Beloki 	 Hiszpania 	TdF 2000
+86 	1999 	3.870 	Lance Armstrong 	Stany Zjednoczone Stany Zjednoczone 	Alex Zülle 	 Szwajcaria 	Fernando Escartin 	 Hiszpania 	TdF 1999
+85 	1998 	3.850 	Marco Pantani 	 Włochy 	Jan Ullrich 	 Niemcy 	Bobby Julich 	 Stany Zjednoczone 	TdF 1998
+84 	1997 	3.950 	Jan Ullrich 	 Niemcy 	Richard Virenque 	 Francja 	Marco Pantani 	 Włochy 	TdF 1997
+83 	1996 	3.907 	Bjarne Riis[11] 	 Dania 	Jan Ullrich 	 Niemcy 	Richard Virenque 	 Francja 	TdF 1996
+82 	1995 	3.653 	Miguel Indurain 	 Hiszpania 	Alex Zülle 	 Szwajcaria 	Bjarne Riis 	 Dania 	TdF 1995
+81 	1994 	3.978 	Miguel Indurain 	 Hiszpania 	Piotr Ugriumow 	 Łotwa 	Marco Pantani 	 Włochy 	TdF 1994
+80 	1993 	3.714 	Miguel Indurain 	 Hiszpania 	Tony Rominger 	 Szwajcaria 	Zenon Jaskuła 	 Polska 	TdF 1993
+79 	1992 	3.983 	Miguel Indurain 	 Hiszpania 	Claudio Chiappucci 	 Włochy 	Gianni Bugno 	 Włochy 	TdF 1992
+78 	1991 	3.914 	Miguel Indurain 	 Hiszpania 	Gianni Bugno 	 Włochy 	Claudio Chiappucci 	 Włochy 	TdF 1991
+77 	1990 	3.504 	Greg LeMond 	 Stany Zjednoczone 	Claudio Chiappucci 	 Włochy 	Erik Breukink 	 Holandia 	TdF 1990
+76 	1989 	3.285 	Greg LeMond 	 Stany Zjednoczone 	Laurent Fignon 	 Francja 	Pedro Delgado 	 Hiszpania 	TdF 1989
+75 	1988 	3.286 	Pedro Delgado 	 Hiszpania 	Steven Rooks 	 Holandia 	Fabio Parra 	 Kolumbia 	TdF 1988
+74 	1987 	4.231 	Stephen Roche 	 Irlandia 	Pedro Delgado 	 Hiszpania 	Jean-François Bernard 	 Francja 	TdF 1987
+73 	1986 	4.094 	Greg LeMond 	 Stany Zjednoczone 	Bernard Hinault 	 Francja 	Urs Zimmermann 	 Szwajcaria 	TdF 1986
+72 	1985 	4.109 	Bernard Hinault 	 Francja 	Greg LeMond 	 Stany Zjednoczone 	Stephen Roche 	 Irlandia 	TdF 1985
+71 	1984 	4.021 	Laurent Fignon 	 Francja 	Bernard Hinault 	 Francja 	Greg LeMond 	 Stany Zjednoczone 	TdF 1984
+70 	1983 	3.809 	Laurent Fignon 	 Francja 	Angel Arroyo 	 Hiszpania 	Peter Winnen 	 Holandia 	TdF 1983
+69 	1982 	3.507 	Bernard Hinault 	 Francja 	Joop Zoetemelk 	 Holandia 	Johan Van der Velde 	 Holandia 	TdF 1982
+68 	1981 	3.753 	Bernard Hinault 	 Francja 	Lucien Van Impe 	 Belgia 	Robert Alban 	 Francja 	TdF 1981
+67 	1980 	3.842 	Joop Zoetemelk 	 Holandia 	Hennie Kuiper 	 Holandia 	Raymond Martin 	 Francja 	TdF 1980
+66 	1979 	3.765 	Bernard Hinault 	 Francja 	Joop Zoetemelk 	 Holandia 	Joaquim Agostinho 	 Portugalia 	TdF 1979
+65 	1978 	3.908 	Bernard Hinault 	 Francja 	Joop Zoetemelk 	 Holandia 	Joaquim Agostinho 	 Portugalia 	TdF 1978
+64 	1977 	4.096 	Bernard Thévenet 	 Francja 	Hennie Kuiper 	 Holandia 	Lucien Van Impe 	 Belgia 	TdF 1977
+63 	1976 	4.017 	Lucien Van Impe 	 Belgia 	Joop Zoetemelk 	 Holandia 	Raymond Poulidor 	 Francja 	TdF 1976
+62 	1975 	4.000 	Bernard Thévenet 	 Francja 	Eddy Merckx 	 Belgia 	Lucien Van Impe 	 Belgia 	TdF 1975
+61 	1974 	4.098 	Eddy Merckx 	 Belgia 	Raymond Poulidor 	 Francja 	Vicente Lopez-Carril 	 Hiszpania 	TdF 1974
+60 	1973 	4.090 	Luis Ocaña 	 Hiszpania 	Bernard Thévenet 	 Francja 	José Manuel Fuente 	 Hiszpania 	TdF 1973
+59 	1972 	3.846 	Eddy Merckx 	 Belgia 	Felice Gimondi 	 Włochy 	Raymond Poulidor 	 Francja 	TdF 1972
+58 	1971 	3.608 	Eddy Merckx 	 Belgia 	Joop Zoetemelk 	 Holandia 	Lucien Van Impe 	 Belgia 	TdF 1971
+57 	1970 	4.254 	Eddy Merckx 	 Belgia 	Joop Zoetemelk 	 Holandia 	Gösta Pettersson 	 Szwecja 	TdF 1970
+56 	1969 	4.117 	Eddy Merckx 	 Belgia 	Roger Pingeon 	 Francja 	Raymond Poulidor 	 Francja 	TdF 1969
+55 	1968 	4.492 	Jan Janssen 	 Holandia 	Herman Van Springel 	 Belgia 	Ferdinand Bracke 	 Belgia 	TdF 1968
+54 	1967 	4.758 	Roger Pingeon 	 Francja 	Julio Jiménez 	 Hiszpania 	Franco Balmamion 	 Włochy 	TdF 1967
+53 	1966 	4.322 	Lucien Aimar 	 Francja 	Jan Janssen 	 Holandia 	Raymond Poulidor 	 Francja 	TdF 1966
+52 	1965 	4.177 	Felice Gimondi 	 Włochy 	Raymond Poulidor 	 Francja 	Gianni Motta 	 Włochy 	TdF 1965
+51 	1964 	4.504 	Jacques Anquetil 	 Francja 	Raymond Poulidor 	 Francja 	Federico Bahamontes 	 Hiszpania 	TdF 1964
+50 	1963 	4.137 	Jacques Anquetil 	 Francja 	Federico Bahamontes 	 Hiszpania 	José Perez-Frances 	 Hiszpania 	TdF 1963
+49 	1962 	4.274 	Jacques Anquetil 	 Francja 	Josef Planckaert 	 Belgia 	Raymond Poulidor 	 Francja 	TdF 1962
+48 	1961 	4.397 	Jacques Anquetil 	 Francja 	Guido Carlesi 	 Włochy 	Charly Gaul 	 Luksemburg 	TdF 1961
+47 	1960 	4.173 	Gastone Nencini 	 Włochy 	Graziano Battistini 	 Włochy 	Jan Adriaensens 	 Belgia 	TdF 1960
+46 	1959 	4.391 	Federico Bahamontes 	 Hiszpania 	Henry Anglade 	 Francja 	Jacques Anquetil 	 Francja 	TdF 1959
+45 	1958 	4.319 	Charly Gaul 	 Luksemburg 	Vito Favero 	 Włochy 	Raphaël Geminiani 	 Francja 	TdF 1958
+44 	1957 	4.665 	Jacques Anquetil 	 Francja 	Marcel Janssens 	 Belgia 	Adolf Christian 	 Austria 	TdF 1957
+43 	1956 	4.498 	Roger Walkowiak 	 Francja 	Gilbert Bauvin 	 Francja 	Jan Adriaensens 	 Belgia 	
+42 	1955 	4.495 	Louison Bobet 	 Francja 	Jean Brankart 	 Belgia 	Charly Gaul 	 Luksemburg 	
+41 	1954 	4.656 	Louison Bobet 	 Francja 	Ferdi Kübler 	 Szwajcaria 	Fritz Schär 	 Szwajcaria 	
+40 	1953 	4.476 	Louison Bobet 	 Francja 	Jean Mallejac 	 Francja 	Giancarlo Astrua 	 Włochy 	
+39 	1952 	4.898 	Fausto Coppi 	 Włochy 	Stan Ockers 	 Belgia 	Bernardo Ruiz 	 Hiszpania 	
+38 	1951 	4.690 	Hugo Koblet 	 Szwajcaria 	Raphaël Geminiani 	 Francja 	Lucien Lazarides 	 Francja 	
+37 	1950 	4.773 	Ferdi Kübler 	 Szwajcaria 	Stan Ockers 	 Belgia 	Louison Bobet 	 Francja 	
+36 	1949 	4.808 	Fausto Coppi 	 Włochy 	Gino Bartali 	 Włochy 	Jacques Marinelli 	 Francja 	
+35 	1948 	4.922 	Gino Bartali 	 Włochy 	Brik Schotte 	 Belgia 	Guy Lapebie 	 Francja 	
+34 	1947 	4.640 	Jean Robic 	 Francja 	Edouard Fachleitner 	 Francja 	Pierre Brambilla 	 Włochy 	
+33 	1939 	4.224 	Sylvère Maes 	 Belgia 	René Vietto 	 Francja 	Lucien Vlaemynck 	 Belgia 	
+32 	1938 	4.687 	Gino Bartali 	 Włochy 	Félicien Vervaecke 	 Belgia 	Victor Cosson 	 Francja 	
+31 	1937 	4.415 	Roger Lapébie 	 Francja 	Mario Vicini 	 Włochy 	Leo Amberg 	 Szwajcaria 	
+30 	1936 	4.418 	Sylvère Maes 	 Belgia 	Antonin Magne 	 Francja 	Félicien Vervaecke 	 Belgia 	
+29 	1935 	4.338 	Romain Maes 	 Belgia 	Ambrogio Morelli 	 Włochy 	Félicien Vervaecke 	 Belgia 	
+28 	1934 	4.470 	Antonin Magne 	 Francja 	Giuseppe Martano 	 Włochy 	Roger Lapébie 	 Francja 	
+27 	1933 	4.395 	Georges Speicher 	 Francja 	Learco Guerra 	 Włochy 	Giuseppe Martano 	 Włochy 	
+26 	1932 	4.479 	André Leducq 	 Francja 	Kurt Stoepel 	 Niemcy 	Francesco Camusso 	 Włochy 	
+25 	1931 	5.091 	Antonin Magne 	 Francja 	Jef Demuysere 	 Belgia 	Antonio Pesenti 	 Włochy 	
+24 	1930 	4.822 	André Leducq 	 Francja 	Learco Guerra 	 Włochy 	Antonin Magne 	 Francja 	
+23 	1929 	5.257 	Maurice Dewaele 	 Belgia 	Giuseppe Pancera 	 Włochy 	Jef Demuysere 	 Belgia 	
+22 	1928 	5.476 	Nicolas Frantz 	 Luksemburg 	André Leducq 	 Francja 	Maurice Dewaele 	 Belgia 	
+21 	1927 	5.340 	Nicolas Frantz 	 Luksemburg 	Maurice Dewaele 	 Belgia 	Lucien Vervaecke 	 Belgia 	
+20 	1926 	5.745 	Lucien Buysse 	 Belgia 	Nicolas Frantz 	 Luksemburg 	Bartolomeo Aimo 	 Włochy 	
+19 	1925 	5.440 	Ottavio Bottecchia 	 Włochy 	Lucien Buysse 	 Belgia 	Bartolomeo Aimo 	 Włochy 	
+18 	1924 	5.425 	Ottavio Bottecchia 	 Włochy 	Nicolas Frantz 	 Luksemburg 	Lucien Buysse 	 Belgia 	
+17 	1923 	5.386 	Henri Pélissier 	 Francja 	Ottavio Bottecchia 	 Włochy 	Romain Bellenger 	 Francja 	
+16 	1922 	5.375 	Firmin Lambot 	 Belgia 	Jean Alavoine 	 Francja 	Félix Seller 	 Belgia 	
+15 	1921 	5.485 	Léon Scieur 	 Belgia 	Hector Heusghem 	 Belgia 	Honoré Barthelemy 	 Francja 	
+14 	1920 	5.503 	Philippe Thys 	 Belgia 	Hector Heusghem 	 Belgia 	Firmin Lambot 	 Belgia 	
+13 	1919 	5.560 	Firmin Lambot 	 Belgia 	Jean Alavoine 	 Francja 	Eugene Christophe 	 Francja 	
+12 	1914 	5.380 	Philippe Thys 	 Belgia 	Henri Pélissier 	 Francja 	Jean Alavoine 	 Francja 	
+11 	1913 	5.287 	Philippe Thys 	 Belgia 	Gustave Garrigou 	 Francja 	Marcel Buysse 	 Belgia 	
+10 	1912 	5.289 	Odile Defraye 	 Belgia 	Eugene Christophe 	 Francja 	Gustave Garrigou 	 Francja 	
+09 	1911 	5.343 	Gustave Garrigou 	 Francja 	Paul Duboc 	 Francja 	Emile Georget 	 Francja 	
+08 	1910 	4.734 	Octave Lapize 	 Francja 	François Faber 	 Luksemburg 	Gustave Garrigou 	 Francja 	
+07 	1909 	4.497 	François Faber 	 Luksemburg 	Gustave Garrigou 	 Francja 	Jean Alavoine 	 Francja 	
+06 	1908 	4.488 	Lucien Petit-Breton 	 Francja 	François Faber 	 Luksemburg 	Georges Passerieu 	 Francja 	
+05 	1907 	4.488 	Lucien Petit-Breton 	 Francja 	Gustave Garrigou 	 Francja 	Emile Georget 	 Francja 	
+04 	1906 	4.545 	René Pottier 	 Francja 	Georges Passerieu 	 Francja 	Louis Trousselier 	 Francja 	
+03 	1905 	2.994 	Louis Trousselier 	 Francja 	Hyppolite Aucouturier 	 Francja 	Jean-Baptiste Dortignacq 	 Francja 	
+02 	1904 	2.428 	Henri Cornet 	 Francja 	Jean-Baptiste Dortignacq 	 Francja 	Alois Catteau 	 Belgia 	
+01 	1903 	2.428 	Maurice Garin 	 Francja 	Lucien Pothier 	 Francja 	Fernand Augereau 	 Francja 	
